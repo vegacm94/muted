@@ -30,9 +30,14 @@
     <div class="title">LENGUA DE SIGNOS</div>
 
 	<form class="contacto">
-		<div class="message"><img src="imagenes/grabar.png"></div>
+		<div class="message" onclick="grabando()"><img src="imagenes/grabar.png"></div>
 		<div class="boton"><a href="index.html"> OK</a></div>
 	</form>
+	<script type="text/javascript">
+		function grabando(){
+			var resultado = confirm("GRABANDO...");
+		}
+	</script>
 
 </body>
 </html> 
