@@ -178,7 +178,6 @@ nav ul li a .cuarto {
 	margin-bottom: 40px; 
 
 }
-
 .contacto {
 	background: #fff;
 	border: 1px solid #CED5D7;
@@ -189,7 +188,7 @@ nav ul li a .cuarto {
 	font-family: sans-serif;
 	font-size: 15px;
 	width: 400px;
-	height: 100px;
+	height: 300px;
 	margin: auto;
 
 }
@@ -215,4 +214,16 @@ nav ul li a .cuarto {
 	text-align: center;
   }
 
+.boton{
+    cursor: pointer;
+  	margin-left: 200px;
+  	margin-bottom: 70px;
+  	background: #fff;
+	border: 1px solid #CED5D7;
+	border-radius: 6px;
+	box-shadow: 0px 5px 10px #B5C1C5, 0 0 0 10px #EEF5F7 inset;
+	font-family: sans-serif;
+	width: 50px;
+	height: 30px;
+  }
 
